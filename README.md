@@ -1,2 +1,2 @@
-# Lab-1
+# Lab-2
 Gustavo Vicuña
